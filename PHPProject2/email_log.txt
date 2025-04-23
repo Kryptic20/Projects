@@ -1,0 +1,119 @@
+2024-10-07 20:06:42 - To: kevinadams@gmail.com - Subject: Welcome to News Website
+Message:
+Dear Kevin Adams,
+
+Your account has been successfully created on our news website.
+Here are your login details:
+Email: kevinadams@gmail.com
+Password: blooms21
+
+Please change your password after logging in.
+
+Thank you for joining us!
+Headers:
+From: noreply@newswebsite.com
+Reply-To: noreply@newswebsite.com
+X-Mailer: PHP/8.2.12
+
+2024-10-10 00:52:25 - To: jamesbond007@gmail.com - Subject: Welcome to News Website
+Message:
+Dear James Bond,
+
+Your account has been successfully created on our news website.
+Here are your login details:
+Email: jamesbond007@gmail.com
+Password: f62c39b4b055
+
+Please change your password after logging in.
+
+Thank you for joining us!
+Headers:
+From: noreply@newswebsite.com
+Reply-To: noreply@newswebsite.com
+X-Mailer: PHP/8.2.12
+
+2024-10-13 18:28:04 - To: henryhampton@gmail.com - Subject: Welcome to News Website
+Message:
+Dear Henry Hampton,
+
+Your account has been successfully created on our news website.
+Here are your login details:
+Email: henryhampton@gmail.com
+Password: 6f26c7add469
+
+Please change your password after logging in.
+
+Thank you for joining us!
+Headers:
+From: noreply@newswebsite.com
+Reply-To: noreply@newswebsite.com
+X-Mailer: PHP/8.2.12
+
+2024-10-14 23:30:28 - To: jackjumper@gmail.com - Subject: Welcome to News Website
+Message:
+Dear Jack Jumper,
+
+Your account has been successfully created on our news website.
+Here are your login details:
+Email: jackjumper@gmail.com
+Password: c00cf1d92f76
+
+Please change your password after logging in.
+
+Thank you for joining us!
+Headers:
+From: noreply@newswebsite.com
+Reply-To: noreply@newswebsite.com
+X-Mailer: PHP/8.2.12
+
+2024-10-14 23:42:34 - To: happytrooper@gmail.com - Subject: Welcome to News Website
+Message:
+Dear Happy Trooper,
+
+Your account has been successfully created on our news website.
+Here are your login details:
+Email: happytrooper@gmail.com
+Password: 
+
+Please change your password after logging in.
+
+Thank you for joining us!
+Headers:
+From: noreply@newswebsite.com
+Reply-To: noreply@newswebsite.com
+X-Mailer: PHP/8.2.12
+
+2024-10-14 23:48:06 - To: alexiarodriguez@gmail.com - Subject: Welcome to News Website
+Message:
+Dear Alexia Rodriguez,
+
+Your account has been successfully created on our news website.
+Here are your login details:
+Email: alexiarodriguez@gmail.com
+Password: bff731247223
+
+Please change your password after logging in.
+
+Thank you for joining us!
+Headers:
+From: noreply@newswebsite.com
+Reply-To: noreply@newswebsite.com
+X-Mailer: PHP/8.2.12
+
+2024-10-14 23:52:44 - To: janejacobs@gmail.com - Subject: Welcome to News Website
+Message:
+Dear Jane Jacobs,
+
+Your account has been successfully created on our news website.
+Here are your login details:
+Email: janejacobs@gmail.com
+Password: 4a12751c7754
+
+Please change your password after logging in.
+
+Thank you for joining us!
+Headers:
+From: noreply@newswebsite.com
+Reply-To: noreply@newswebsite.com
+X-Mailer: PHP/8.2.12
+
